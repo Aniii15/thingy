@@ -1,6 +1,6 @@
-# 🩺 Skin Disease Detection using Deep Learning  
+# Skin Disease Detection using Deep Learning  
 
-## 📘 Overview  
+## Overview  
 This project aims to build an AI-powered web application that detects **skin diseases** from uploaded images.  
 The system uses a **trained deep learning model** built on a **Kaggle skin disease dataset**, and provides an easy-to-use **frontend web interface** for users to upload their details and affected skin images.  
 
