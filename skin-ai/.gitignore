@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+# Node
+node_modules/
+dist/
+
+# Models/artifacts
+backend/models/model.pth
+backend/models/*.pt
+backend/models/*.pth
+*.log
+
+# Train
+train/data/
+train/ham10000_raw/
